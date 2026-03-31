@@ -1,0 +1,25 @@
+timestamp,algorithm,data_structure,input_size,avg_time_ms,min_time_ns,max_time_ns,std_dev_ns,memory_bytes
+2026-03-26 10:33:31,"Linear Search (Array)","Unsorted Array",100,0.023814,21564,30050,1652.82,416
+2026-03-26 10:33:31,"Linear Search (Linked List)","Singly Linked List",100,0.002352,2206,3191,285.16,2800
+2026-03-26 10:33:31,"Binary Search (Array)","Sorted Array",100,0.000534,511,816,67.33,416
+2026-03-26 10:33:31,"BST Search","Binary Search Tree",100,0.003054,399,51999,11230.32,3600
+2026-03-26 10:33:31,"Linear Search (Array)","Unsorted Array",1000,0.045517,33091,80487,11864.14,4016
+2026-03-26 10:33:31,"Linear Search (Linked List)","Singly Linked List",1000,0.029513,21762,47811,7341.02,28000
+2026-03-26 10:33:31,"Binary Search (Array)","Sorted Array",1000,0.001058,910,1674,150.47,4016
+2026-03-26 10:33:31,"BST Search","Binary Search Tree",1000,0.000920,800,1834,214.21,36000
+2026-03-26 10:33:31,"Linear Search (Array)","Unsorted Array",5000,0.065884,31754,167118,45458.64,20016
+2026-03-26 10:33:31,"Linear Search (Linked List)","Singly Linked List",5000,0.057815,33401,123514,31763.98,140000
+2026-03-26 10:33:31,"Binary Search (Array)","Sorted Array",5000,0.000778,752,961,51.98,20016
+2026-03-26 10:33:31,"BST Search","Binary Search Tree",5000,0.001234,1162,1770,128.13,180000
+2026-03-26 10:33:31,"Linear Search (Array)","Unsorted Array",10000,0.148734,115586,171682,16457.66,40016
+2026-03-26 10:33:31,"Linear Search (Linked List)","Singly Linked List",10000,0.066308,30445,154820,53791.41,280000
+2026-03-26 10:33:31,"Binary Search (Array)","Sorted Array",10000,0.001207,899,1796,180.79,40016
+2026-03-26 10:33:31,"BST Search","Binary Search Tree",10000,0.001412,1091,4829,786.73,360000
+2026-03-26 10:33:31,"Linear Search (Array)","Unsorted Array",50000,0.031051,29359,32694,814.26,200016
+2026-03-26 10:33:31,"Linear Search (Linked List)","Singly Linked List",50000,0.144100,129696,150920,5151.97,1400000
+2026-03-26 10:33:31,"Binary Search (Array)","Sorted Array",50000,0.000812,770,1352,124.33,200016
+2026-03-26 10:33:31,"BST Search","Binary Search Tree",50000,0.000742,688,1260,120.70,1800000
+2026-03-26 10:33:31,"Linear Search (Array)","Unsorted Array",100000,0.031253,31098,32035,190.56,400016
+2026-03-26 10:33:31,"Linear Search (Linked List)","Singly Linked List",100000,0.276801,244849,458936,43791.02,2800000
+2026-03-26 10:33:31,"Binary Search (Array)","Sorted Array",100000,0.000828,784,1259,108.53,400016
+2026-03-26 10:33:31,"BST Search","Binary Search Tree",100000,0.000750,579,2613,451.85,3600000
